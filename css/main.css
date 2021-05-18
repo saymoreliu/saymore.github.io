@@ -1197,7 +1197,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #24b0f4;
+  background: #7fff4a;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2046,6 +2046,25 @@ pre .javascript .function {
 .my_post_copyright .copy-path:hover {
   color: #808080;
   cursor: pointer;
+}
+body {
+  background: url("/images/old_bridge.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.content-wrap {
+  opacity: 0.9;
+}
+.sidebar {
+  opacity: 0.9;
+}
+.header-inner {
+  background: rgba(255,255,255,0.9);
+}
+.popup {
+  opacity: 0.9;
 }
 .category-all-page .category-all-title {
   text-align: center;
