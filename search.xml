@@ -39,8 +39,9 @@
 <p>[<a href="https://mp.weixin.qq.com/s/5WDfojhfgjA8g7pxw69pTQ">ElATools程序: 用于分析2D和3D材料各向异性弹性特性的工具 (qq.com)</a>]:</p>
 <p>[<a href="http://faculty.missouri.edu/hammondkd/LAMMPS.shtml">Karl’s LAMMPS Tools | Research Group of Karl Hammond | University of Missouri</a>]:</p>
 <p>[<a href="https://zhuanlan.zhihu.com/p/36457551#:~:text=注意： lammps默认安装3个依赖包， MANYBODY ，,KSPACE ， MOLECULE。 (划重点：2020年的新版本lammps没有默认安装包，所以需要自己选择安装，上述三个是强烈推荐安装的） 。">2018版lammps安装教程（小白专用） - 知乎 (zhihu.com)</a>]:</p>
-<p>[<a href="https://mp.weixin.qq.com/s/TlgRiuedwO9hgxl9OAAReQ">LAMMPS纳米压痕脚本及后处理软件Ovito简介 (qq.com)</a>]:</p>
+<h3 id="ovito"><a href="#ovito" class="headerlink" title="ovito"></a>ovito</h3><p>[<a href="https://mp.weixin.qq.com/s/TlgRiuedwO9hgxl9OAAReQ">LAMMPS纳米压痕脚本及后处理软件Ovito简介 (qq.com)</a>]:</p>
 <p>[<a href="https://mp.weixin.qq.com/s/95Z9pUG78XEyKrVUXWbPLQ">分子动力学计算实战：利用 OVITO 软件找弗伦克尔缺陷和位错环分析 (qq.com)</a>]:</p>
+<h3 id="ATOMSK"><a href="#ATOMSK" class="headerlink" title="ATOMSK"></a>ATOMSK</h3><p><a href="https://mp.weixin.qq.com/s/CgyMZOnEyP1ebkZiEO5gtg">MS+atomsk：建立六角晶系对称晶界模型概述 (qq.com)</a></p>
 <p>[<a href="https://mp.weixin.qq.com/s/_Wh67cLZCjgk8T1owoZHQg">lammps教程：FeNiCr合金多晶结构建模方法 (qq.com)</a>]:</p>
 <h2 id="有限元数值模拟"><a href="#有限元数值模拟" class="headerlink" title="有限元数值模拟"></a>有限元数值模拟</h2><hr>
 <p><strong>ABAQUS</strong>：</p>
